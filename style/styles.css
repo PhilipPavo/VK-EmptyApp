@@ -1,0 +1,13 @@
+body { 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.wrap{
+	display: block;
+	margin: 0 auto;
+}
+.center{
+  text-align: center;
+}
